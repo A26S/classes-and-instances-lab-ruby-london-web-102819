@@ -1,6 +1,6 @@
 class Dog 
 end
 
-sanchez = Dog.new
+snoopy = Dog.new
 rick = Dog.new 
 morty = Dog.new
