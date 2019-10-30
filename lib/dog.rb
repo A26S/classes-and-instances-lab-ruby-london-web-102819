@@ -1,5 +1,4 @@
 class Dog 
-  
 end
 
-Dog.new = "sanchez"
+sanchez = Dog.new
